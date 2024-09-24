@@ -28,6 +28,3 @@
     } while (0)
 
 #endif // COMMON_DEFS_H
-
-
-//Test 
